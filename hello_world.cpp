@@ -9,8 +9,10 @@
  */
 int main(){
     std::string name;
-    std::cin>>name; // Read name from standart input stream
-    std::cout<<"Hello world from "<<name<<std::endl; // Write greeting string
+    std::cin>>name; 
+    // Read name from standart input stream
+    std::cout<<"Hello world from "<<name<<std::endl; 
+    // Write greeting string
     return 0;
 }
 
